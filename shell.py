@@ -3,7 +3,7 @@ import vplusplus
 while True:
 	text = input('v++ > ')
 	if text.strip() == "": continue
-	result, error = basic.run('<stdin>', text)
+	result, error = vplusplus.run('<stdin>', text)
 
 	if error:
 		print(error.as_string())
