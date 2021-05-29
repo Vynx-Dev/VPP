@@ -1,7 +1,7 @@
 import readline
 import vplusplus
 while True:
-	text = input('basic > ')
+	text = input('v++ > ')
 	if text.strip() == "": continue
 	result, error = basic.run('<stdin>', text)
 
