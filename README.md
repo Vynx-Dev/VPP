@@ -10,6 +10,7 @@ Clone the repo by running `git clone https://github.com/Lynx-Chat/VPLUSPLUS`.
 Then cd into the directory.
 # Live Shell
 Just type `python3 shell.py` and that will run the V++ live shell.
+If you run `RUN("FILENAME.vpp")` you can run a file in the live shell.
 # Compiling
 WORK IN PROGRESS
 # Features
