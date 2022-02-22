@@ -1,6 +1,14 @@
 # The V++ Project
-it was dead now its back. This is the revival of V++! special thanks to @Lucas-101 for the idea
-# Running
-just type `python3 shell.py` and that will run v++
+It was dead now its back. This is the revival of V++! special thanks to @Lucas-101 for the idea.
+# Documentation
+Check the Github wiki for the docs.
+# Installation
+Requirements: git python3
+Clone the repo by running `git clone https://github.com/Lynx-Chat/VPLUSPLUS`.
+Then cd into the directory.
+# Live Shell
+Just type `python3 shell.py` and that will run the V++ live shell.
+# Compiling
+WORK IN PROGRESS
 # Features
-ITS IN RELEASE SO U CAN CALCULATE AND OTHER STUFF
+See Docs
