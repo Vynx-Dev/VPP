@@ -4,7 +4,9 @@ It was dead now its back. This is the revival of V++! special thanks to @Lucas-1
 Check the Github wiki for the docs.
 # Installation
 Requirements: git python3
+
 Clone the repo by running `git clone https://github.com/Lynx-Chat/VPLUSPLUS`.
+
 Then cd into the directory.
 # Live Shell
 Just type `python3 shell.py` and that will run the V++ live shell.
