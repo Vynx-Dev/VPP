@@ -128,6 +128,7 @@ KEYWORDS = [
   'AND',
   'OR',
   'XOR',
+  'NAND',
   'NOT',
   'IF',
   'ELIF',
